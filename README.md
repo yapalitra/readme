@@ -7,7 +7,7 @@
 <a href="https://vk.com/maria_jacksonn" target="_blank">
 <img src=https://img.shields.io/badge/vk-%2300acee.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/maria_jacksons" target="_blank">
+<a href="https://t.me/mariademeneva" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%2300ace2.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
   
